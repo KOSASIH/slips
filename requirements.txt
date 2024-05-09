@@ -1,0 +1,24 @@
+# Python version
+python==3.9.5
+
+# SLIP data processing
+pyserial==3.5
+crccheck==1.6.0
+
+# Data validation and formatting
+jsonschema==4.3.2
+ujson==4.0.2
+
+# Testing and debugging
+pytest==6.2.5
+pytest-cov==3.0.0
+ipdb==0.13.9
+
+# Linting and code quality
+flake8==4.0.1
+mypy==0.910
+black==21.12b0
+
+# Documentation
+sphinx==4.3.2
+sphinx-autobuild==2021.3.14
